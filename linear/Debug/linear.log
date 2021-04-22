@@ -1,0 +1,3 @@
+﻿  linear.cpp
+C:\Users\exagg\source\repos\linear\linear\linear.cpp(155): warning C4715: solve: значение возвращается не при всех путях выполнения
+  linear.vcxproj -> C:\Users\exagg\source\repos\linear\Debug\linear.exe
